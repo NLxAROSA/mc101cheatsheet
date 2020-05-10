@@ -8,7 +8,11 @@ This Cheat Sheet aims to provide a one or two pager of the most useful shortcuts
 
 ## How to read this cheat sheet
 
-Everything in **bold** refers to a control (a button, knob or slider) on the front panel of the MC-101 (see picture above). A **+** (**plus-sign**) between two or more controls indicates that those controls should be used simultaneously, in the specified order. A **,** (**comma**) between two or more controls indicates that those controls should be used sequentially, in the specified order.
+Everything in **bold** refers to a control (a button, knob or slider) on the front panel of the MC-101 (see picture above). 
+
+A **+** (**plus-sign**) between two or more controls indicates that those controls should be used simultaneously, in the specified order. 
+
+A **,** (**comma**) between two or more controls indicates that those controls should be used sequentially, in the specified order.
 
 ## How to contribute
 First of all, this is a work-in-progress (WIP) until specified differently. Currently in Markdown format, might make a nice looking PDF out of it once it's done.
