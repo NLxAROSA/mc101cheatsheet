@@ -30,7 +30,6 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |---|---|
 |Track settings|**Shift**+**Sel**|
 |Clip settings|**Shift**+**Clip**|
-|
 |Sound settings|**Shift**+**Sound**|
 |System menu|**Shift**+**Utility**|
 |Motion editor|**Shift**+**Mod**|
