@@ -17,91 +17,66 @@ A **,** (**comma**) between two or more controls indicates that those controls s
 ## Completeness and correctness
 First of all, this is a work-in-progress (WIP) until specified differently. Currently in Markdown format, might make a nice looking PDF out of it once it's done.
 
-Though I always strive to be complete and correct, there's always the chance that there's something missing or just plain wrong in here. Should that be the case then make good use of the [New Issue](https://github.com/NLxAROSA/mc101cheatsheet/issues/new/choose) button from the [Issues](https://github.com/NLxAROSA/mc101cheatsheet/issues) tab above. Or even better: [New Pull Request](https://github.com/NLxAROSA/mc101cheatsheet/compare) from the [Pull Requests](https://github.com/NLxAROSA/mc101cheatsheet/pulls) tab! 
+Though I always strive to be complete and correct, there's always the chance that there's something missing or just plain wrong in here. Should that be the case then make good use of the [New Issue](https://github.com/NLxAROSA/mc101cheatsheet/issues/new/choose) button from the [Issues](https://github.com/NLxAROSA/mc101cheatsheet/issues) tab above. Or even better|[New Pull Request](https://github.com/NLxAROSA/mc101cheatsheet/compare) from the [Pull Requests](https://github.com/NLxAROSA/mc101cheatsheet/pulls) tab! 
 
 Anyway, enough chitchat, see below for the Cheat Sheet!
 
 
 # Cheat Sheet - Shortcuts
 
-## Global functions
+## Global shortcuts
 
-Track settings: **Shift**+**Sel**
-
-Clip settings: **Shift**+**Clip**
-
-Sound settings: **Shift**+**Sound**
-
-System menu: **Shift**+**Utility**
-
-Motion editor: **Shift**+**Mod**
-
-Copy clip/track: **Shift**+**FX**
-
-Clear clip: **Shift**+**Project**+**Sel**
-
-Quick write project: **Shift**+**Tempo**
-
-
-Scatter settings: **Shift**+**Scatter**
-
-Quantize settings: **Shift**+**Record**
-
-Multi FX settings: **Shift**+**Multi FX**
+|Action|Shortcut|
+|---|---|
+|Track settings|**Shift**+**Sel**|
+|Clip settings|**Shift**+**Clip**|
+|
+|Sound settings|**Shift**+**Sound**|
+|System menu|**Shift**+**Utility**|
+|Motion editor|**Shift**+**Mod**|
+|Copy clip/track|**Shift**+**FX**|
+|Clear clip|**Shift**+**Project**+**Sel**|
+|Quick write project|**Shift**+**Tempo**|
+|Scatter settings|**Shift**+**Scatter**|
+|Quantize settings|**Shift**+**Record**|
+|Multi FX settings|**Shift**+**Multi FX**|
+|Select C1 parameter|**Sound**+**C1**|
+|Select C2 parameter|**Filter**+**C2**|
+|Select C3 parameter|**Mod**+**C3**|
+|Select C4 parameter|**FX**+**C4**|
 
 
-Select C1 parameter: **Sound**+**C1**
+## Sequence editing shortcuts
 
-Select C2 parameter: **Filter**+**C2**
-
-Select C3 parameter: **Mod**+**C3**
-
-Select C4 parameter: **FX**+**C4**
-
-
-## Sequence editing
-
-Copy/Paste Step: Select **Pad** to copy, **Shift**+**FX**, Select **Pad** to paste, **Shift**+**FX**
-
-Delete Step: **Shift**+**Project**+**Pad**
-
-Pad edit: **Shift**+**Note**
-
-Duplicate measure: **Seq**+**>**
-
-Add drum substep: **Seq**+**Pad**
-
-Clear clip: **Shift**+**Project**+**Clip**
-
-Edit measure length: **Shift**+**>** or **Shift**+**<**
-
-Auto-advance mode (tone track only): **Pad**, **Record** + **Pad** of 1st step
-
-Note edit: **Seq**, **Pad**, **C1**-**C4** to change values
-
-Note edit alternative: **Seq**, **Pad**, hold **Sound** or **Filter** or **Mod** or **FX**, **Value** to change value.
-
-First/Last Step mode: **Shift** + **Seq**
+|Action|Shortcut|
+|---|---|
+|Copy/Paste Step|Select **Pad** to copy, **Shift**+**FX**, Select **Pad** to paste, **Shift**+**FX**|
+|Delete Step|**Shift**+**Project**+**Pad**|
+|Pad edit|**Shift**+**Note**|
+|Duplicate measure|**Seq**+**>**|
+|Add drum substep|**Seq**+**Pad**|
+|Clear clip|**Shift**+**Project**+**Clip**|
+|Edit measure length|**Shift**+**>** or **Shift**+**<**|
+|Auto-advance mode (tone track only)|**Pad**, **Record** + **Pad** of 1st step|
+|Note edit|**Seq**, **Pad**, **C1**-**C4** to change values|
+|Note edit alternative|**Seq**, **Pad**, hold **Sound** or **Filter** or **Mod** or **FX**, **Value** to change value.|
+|First/Last Step mode|**Shift** + **Seq**|
 
 
-## Playback functions
+## Playback shortcuts
 
-
-Mute/Unmute drum part: **Note**+**Pad** (for clip) or **Sel**+**Pad** (for track)
-
-Select key of tone track: **Note**+**Pad**
-
-Select pitch of looper track: **Note**+**Pad**
-
-Random sequence: **Sel**+**>**
-
-Reverse sequence: **Sel**+**<**
-
-Tap tempo: **Shift**+**Exit**
+|Action|Shortcut|
+|---|---|
+|Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Sel**+**Pad** (for track)|
+|Select key of tone track|**Note**+**Pad**|
+|Select pitch of looper track|**Note**+**Pad**|
+|Random sequence|**Sel**+**>**|
+|Reverse sequence|**Sel**+**<**|
+|Tap tempo|**Shift**+**Exit**|
 
 
 
-# Cheat Sheet - Workflow
+# Cheat Sheet - Workflows
 
 
 ## Step recording tone track
