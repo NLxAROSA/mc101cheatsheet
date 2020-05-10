@@ -4,7 +4,7 @@
 
 ## How to read this cheat sheet
 
-Everything in **bold** refers to a control (a button, knob or slider) on the front panel of the MC-101 (see picture above). A **+** (**plus-sign**) between two or more controls indicates two controls should be used simultaneously, in the specified order. A **,** (**comma**) between two or more controls indicates controls should be used sequentially, in the specified order.
+Everything in **bold** refers to a control (a button, knob or slider) on the front panel of the MC-101 (see picture above). A **+** (**plus-sign**) between two or more controls indicates that those controls should be used simultaneously, in the specified order. A **,** (**comma**) between two or more controls indicates that those controls should be used sequentially, in the specified order.
 
 # Shortcuts
 
