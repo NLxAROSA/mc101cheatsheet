@@ -1,4 +1,7 @@
 # Roland MC-101 Cheat Sheet
+
+![Roland MC-101 Diagram](mc-101.PNG)
+
 Hi there, and welcome to the unofficial Cheat Sheet for the [Roland MC-101 Groovebox](https://www.roland.com/global/products/mc-101/)! 
 
 This Cheat Sheet aims to provide a one or two pager of the most useful shortcuts and workflow operations of this nifty little Groovebox. Please note that you'll be able to find most (though not all!) of these by reading the manuals, but who has time for that, right? ;)
