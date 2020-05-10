@@ -27,14 +27,14 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 ## Global shortcuts
 
 |Action|Shortcut|
-|---|---|
-|Track settings|**Shift**+**Sel**|
+|-----------------------------------|-----------------------------------|
+|Track settings|**Shift**+**Track Sel**|
 |Clip settings|**Shift**+**Clip**|
 |Sound settings|**Shift**+**Sound**|
-|System menu|**Shift**+**Utility**|
+|System menu|**Shift**+**Filter**|
 |Motion editor|**Shift**+**Mod**|
 |Copy clip/track|**Shift**+**FX**|
-|Clear clip|**Shift**+**Project**+**Sel**|
+|Clear clip|**Shift**+**Project**+**Track Sel**|
 |Quick write project|**Shift**+**Tempo**|
 |Scatter settings|**Shift**+**Scatter**|
 |Quantize settings|**Shift**+**Record**|
@@ -48,7 +48,7 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 ## Sequence editing shortcuts
 
 |Action|Shortcut|
-|---|---|
+|-----------------------------------|-----------------------------------|
 |Copy/Paste Step|Select **Pad** to copy, **Shift**+**FX**, Select **Pad** to paste, **Shift**+**FX**|
 |Delete Step|**Shift**+**Project**+**Pad**|
 |Pad edit|**Shift**+**Note**|
@@ -65,12 +65,12 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 ## Playback shortcuts
 
 |Action|Shortcut|
-|---|---|
-|Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Sel**+**Pad** (for track)|
+|-----------------------------------|-----------------------------------|
+|Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Track Sel**+**Pad** (for track)|
 |Select key of tone track|**Note**+**Pad**|
 |Select pitch of looper track|**Note**+**Pad**|
-|Random sequence|**Sel**+**>**|
-|Reverse sequence|**Sel**+**<**|
+|Random sequence|**Track Sel**+**>**|
+|Reverse sequence|**Track Sel**+**<**|
 |Tap tempo|**Shift**+**Exit**|
 
 
