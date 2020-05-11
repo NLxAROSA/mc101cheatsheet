@@ -43,7 +43,7 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Select C2 parameter|**Filter**+**C2**|
 |Select C3 parameter|**Mod**+**C3**|
 |Select C4 parameter|**FX**+**C4**|
-
+|Storage mode|**Project**+power on device|
 
 ## Sequence editing shortcuts
 
@@ -59,8 +59,8 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Auto-advance mode (tone track only)|**Pad**, **Record** + **Pad** of 1st step|
 |Note edit|**Seq**, **Pad**, **C1**-**C4** to change values|
 |Note edit alternative|**Seq**, **Pad**, hold **Sound** or **Filter** or **Mod** or **FX**, **Value** to change value.|
-|First/Last Step mode|**Shift** + **Seq**|
-
+|First/last step mode|**Shift**+**Seq**|
+|Cancel first/last step|**Shit**+**Project** while in first/last step mode|
 
 ## Playback shortcuts
 
@@ -72,7 +72,19 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Random sequence|**Track Sel**+**>**|
 |Reverse sequence|**Track Sel**+**<**|
 |Tap tempo|**Shift**+**Exit**|
+|Stutter/top of pattern|**Shift**+**Play** while playing|
+|Stop/play current clip|**Clip**+**Sel** while playing|
+|Multi FX parameter select|**Multi FX**+**FX Prim**|
+|Multi FX parameter depth|**Multi FX**+**FX Depth**|
+|View knob value|**Shift**+**C1**-**C4**|
 
+
+## Scene shortcuts
+
+|Action|Shortcut|
+|-----------------------------------|-----------------------------------|
+|Store Scene|**Clip**+**Pad1**-**Pad8**|
+|Recall Scene|**Clip**+ long press **Pad1**-**Pad8**|
 
 
 # Cheat Sheet - Workflows
@@ -80,14 +92,12 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 
 ## Step recording tone track
 
-
 Start editing: Press **Seq**, then **Pad** to select the first step, then **Note**. Enable/disable notes via **Pad** (hold for tie). Select step via **Value**.
 
 
 ## Step recording drum track:
 
-
-Start editing: Press **Note**, then **Pad** to select the drum part to edit, then **Seq**. Enable/disable steps for given drum part. Select drum part via **Value**.
+Start editing: Press **Note**,**Pad** to select the drum part to edit, then **Seq**. Enable/disable steps for given drum part. Select drum part via **Value**.
 
 
 First/Last Step mode:
@@ -95,18 +105,25 @@ First/Last Step mode:
 
 Select last step: **Pad**
 
-Select first step: **Shift** + **Pad**
+Select first step: **Shift**+**Pad**
 
 
 ## Realtime recording a tone track
 
-
-Press **Record**, then **Note**, then Play; play on the pads, press **Record** again to stop.
+Press **Record**,**Note**, then Play; play on the pads, press **Record** again to stop.
 
 
 ## Realtime recording a looper track
 
+Press **Pad**, then **Shift**+**Record**, select source from menu. Press **Pad** to select clip and press **Record**. This puts it on standby-recording mode and will record the 1st 8 measures (max) after pressing Play.
 
-Press **Pad**, then **Shift** + **Record**, select source from menu. Press **Pad** to select clip and press **Record**. This puts it on standby-recording mode and will record the 1st 8 measures (max) after pressing Play.
 
+## Realtime recording motion to a track
+
+Make sure motion is on (via Motion Editor), Press **Play**, **Record**, press **Sound** or **Filter** or **Mod** or **FX**, **C1**-**C4** to record motion for each track. Press **Record** again to stop.
+
+
+## Editing motion for a step
+
+Press *Seq**, **Shift**+< or **Shift**+> to select step. Press **Value**, **C1**-**C4** to change motion value.
 
