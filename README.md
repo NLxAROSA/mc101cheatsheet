@@ -125,5 +125,5 @@ Make sure motion is on (via Motion Editor), Press **Play**, **Record**, press **
 
 ## Editing motion for a step
 
-Press *Seq**, **Shift**+< or **Shift**+> to select step. Press **Value**, **C1**-**C4** to change motion value.
+Press **Seq**, **Shift**+< or **Shift**+> to select step. Press **Value**, **C1**-**C4** to change motion value.
 
