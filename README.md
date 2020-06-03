@@ -15,7 +15,7 @@ A **+** (**plus-sign**) between two or more controls indicates that those contro
 A **,** (**comma**) between two or more controls indicates that those controls should be used sequentially, in the specified order.
 
 ## Completeness and correctness
-First of all, this is a work-in-progress (WIP) until specified differently. Currently in Markdown format, might make a nice looking PDF out of it once it's done.
+First of all, this is a work-in-progress (WIP) until specified differently. You're currently looking at the Markdown version of the cheat sheet, the PDF version can be found [here](mc101-cheatsheet.pdf).
 
 Though I always strive to be complete and correct, there's always the chance that there's something missing or just plain wrong in here. Should that be the case then make good use of the [New Issue](https://github.com/NLxAROSA/mc101cheatsheet/issues/new/choose) button from the [Issues](https://github.com/NLxAROSA/mc101cheatsheet/issues) tab above. Or even better: [New Pull Request](https://github.com/NLxAROSA/mc101cheatsheet/compare) from the [Pull Requests](https://github.com/NLxAROSA/mc101cheatsheet/pulls) tab! 
 
