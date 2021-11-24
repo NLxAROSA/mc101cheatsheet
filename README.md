@@ -39,11 +39,14 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Scatter settings|**Shift**+**Scatter**|
 |Quantize settings|**Shift**+**Record**|
 |Multi FX settings|**Shift**+**Multi FX**|
+|Display knob value|**Shift**+**Knob**|
+|Knob fine adjustment|****Sound/Filter/Mod/FX**+**Value Knob**|
 |Select C1 parameter|**Sound**+**C1**|
 |Select C2 parameter|**Filter**+**C2**|
 |Select C3 parameter|**Mod**+**C3**|
 |Select C4 parameter|**FX**+**C4**|
 |Storage mode|**Project**+power on device|
+|Enter scene mode|**Clip**+**Seq**|
 
 ## Sequence editing shortcuts
 
@@ -53,7 +56,9 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Delete Step|**Shift**+**Project**+**Pad**|
 |Pad edit|**Shift**+**Note**|
 |Duplicate measure|**Seq**+**>**|
+|Halve measure|**Seq**+**<**|
 |Add drum substep|**Seq**+**Pad**|
+|Add low velocity drum hit|**Track Sel**+**Pad**|
 |Clear clip|**Shift**+**Project**+**Clip**|
 |Edit measure length|**Shift**+**>** or **Shift**+**<**|
 |Auto-advance mode (tone track only)|**Pad**, **Record** + **Pad** of 1st step|
@@ -61,19 +66,24 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Note edit alternative|**Seq**, **Pad**, hold **Sound** or **Filter** or **Mod** or **FX**, **Value** to change value.|
 |First/last step mode|**Shift**+**Seq**|
 |Cancel first/last step|**Shit**+**Project** while in first/last step mode|
+|Toggle notes/chords|Press twice **Note**|
+|Chord designer|In chord mode, press **Shift**+**Filter**|
 
 ## Playback shortcuts
 
 |Action|Shortcut|
 |-----------------------------------|-----------------------------------|
+|Force start|**Shift**+**Play**|
 |Mute/Unmute drum part|**Note**+**Pad** (for clip) or **Track Sel**+**Pad** (for track)|
-|Select key of tone track|**Note**+**Pad**|
+|Transpose tone track|**Note**+**Pad**|
 |Select pitch of looper track|**Note**+**Pad**|
 |Random sequence|**Track Sel**+**>**|
 |Reverse sequence|**Track Sel**+**<**|
 |Tap tempo|**Shift**+**Exit**|
+|Toggle metronome|**Tempo**+**Exit**|
+|Toggle arpeggiator|Long press **Note**|
 |Stutter/top of pattern|**Shift**+**Play** while playing|
-|Stop/play current clip|**Clip**+**Sel** while playing|
+|Start/Stop current clip|**Clip**+**Sel** while playing|
 |Multi FX parameter select|**Multi FX**+**FX Prim**|
 |Multi FX parameter depth|**Multi FX**+**FX Depth**|
 |View knob value|**Shift**+**C1**-**C4**|
@@ -85,6 +95,8 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |-----------------------------------|-----------------------------------|
 |Store Scene|**Clip**+**Pad1**-**Pad8**|
 |Recall Scene|**Clip**+ long press **Pad1**-**Pad8**|
+|Scene selection|Long press **Clip**|
+|Scene chain|**Shift**+**Pad**|
 
 
 # Cheat Sheet - Workflows
@@ -126,4 +138,3 @@ Make sure motion is on (via Motion Editor), Press **Play**, **Record**, press **
 ## Editing motion for a step
 
 Press **Seq**, **Shift**+< or **Shift**+> to select step. Press **Value**, **C1**-**C4** to change motion value.
-
