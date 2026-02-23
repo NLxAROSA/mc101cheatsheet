@@ -40,13 +40,15 @@ Anyway, enough chitchat, see below for the Cheat Sheet!
 |Quantize settings|**Shift**+**Record**|
 |Multi FX settings|**Shift**+**Multi FX**|
 |Display knob value|**Shift**+**Knob**|
-|Knob fine adjustment|****Sound/Filter/Mod/FX**+**Value Knob**|
+|Knob fine adjustment|**Sound/Filter/Mod/FX**+**Value Knob**|
 |Select C1 parameter|**Sound**+**C1**|
 |Select C2 parameter|**Filter**+**C2**|
 |Select C3 parameter|**Mod**+**C3**|
 |Select C4 parameter|**FX**+**C4**|
 |Storage mode|**Project**+power on device|
 |Enter scene mode|**Clip**+**Seq**|
+|Undo|**Exit**+**<**|
+|Redo|**Exit**+**>**|
 
 ## Sequence editing shortcuts
 
